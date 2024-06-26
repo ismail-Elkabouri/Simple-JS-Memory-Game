@@ -1,0 +1,9 @@
+#gard {
+    width: 500px;
+    height: 300px;
+    
+   
+}
+#gard > img {
+    width: 150px;
+}
